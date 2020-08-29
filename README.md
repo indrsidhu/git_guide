@@ -25,4 +25,6 @@ git push --set-upstream origin my-branch
 
 1. after making some changes in master branch i cant go to my-branch, i have to commit or stash my work i master branch before go to other branch.
 
-1. This is readme changes in my-branch
+2. This is readme changes in my-branch
+
+3. This is new updates in master read me file
