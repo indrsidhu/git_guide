@@ -1,30 +1,12 @@
-# download a repository on GitHub.com to our machine
-git clone https://github.com/me/repo.git
+---
+description: >-
+  Welcome to QuoteRules help desk portal! Find relevant articles in the areas
+  you need help in.
+---
 
-# change into the `repo` directory
-cd repo
+# Quickstart Guide
 
-# create a new branch to store any new changes
-git branch my-branch
+### Smart quote generator tool for Fast, Accurate, and Easy Project Quotation.
 
-# switch to that branch (line of development)
-git checkout my-branch
+We help websites & mobile apps to generate qualified leads and increase sales team productivity. Our Quote Assistant tool analyzes customer requirements and suggests best quotes using smart AI techniques. [Try for free now](https://www.quoterules.com/register) or [Demo](https://www.quoterules.com/demo)
 
-# make changes, for example, edit `file1.md` and `file2.md` using the text editor
-
-# stage the changed files
-git add file1.md file2.md
-
-# take a snapshot of the staging area (anything that's been added)
-git commit -m "my snapshot"
-
-# push changes to github
-git push --set-upstream origin my-branch
-
-@1.0 This line is written in master branch
-
-1. after making some changes in master branch i cant go to my-branch, i have to commit or stash my work i master branch before go to other branch.
-
-2. This is readme changes in my-branch
-
-3. This is new updates in master read me file
